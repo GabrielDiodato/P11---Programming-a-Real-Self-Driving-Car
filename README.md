@@ -3,36 +3,16 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
  :vertical_traffic_light: :car:
 
-### Project
+### Project 11 - Programming a Real Self-Driving Car 
 In this project, we program a real self-driving car to drive on a parking lot and stop on red lights.
 <img src="./imgs/carla.jpeg" alt="CARLA" width="480" height="300">
 
 To drive on the parking lot, we first test our implementation on two separate simulators.
 * The first simulator is a highway simulator.
-Here is the video of the results here : ###VIDEO
 
 * The second simulator is the same as the parking lot but played with rosbag.
-Here is the video of the results here : ###VIDEO
 
-
-Finally, we are able to drive the car around the parking lot :
-Video here : ###VIDEO
-
-[![Real_Time_Testing](imgs/final_vid.png)](https://youtu.be/13VhwfG965Q)
-
-
-### Team
-
-The team who built this project is a team of five engineers that met during Term 1, helping eachothers on understanding Convolutional Neural Networks, Computer Vision, and Robotics.
-We finally decided to team up at the beginning of Term 3 and to call ourselves : __The Racers__
-
-|     Name      | Image        | Location | LinkedIn | Github                   |
-|---------------|--------------|----------|----------|--------------------------|
-| __Vincent Wiart__ | <img src="./imgs/vwiart.jpg" alt="Vincent Wiart" width="150" height="150">| FRANCE | [linkedin.com/in/vwiart](https://linkedin.com/in/vwiart) |[github.com/vwiart](https://github.com/vwiart)  |
-| __Anil Dhole__ | <img src="./imgs/adhole.jpg" alt="Anil Dhole" width="150" height="150"> | INDIA | [linkedin.com/in/anil-dhole](https://linkedin.com/in/anil-dhole)  | [github.com/ajdhole](https://github.com/ajdhole) |
-| __Jeremy Cohen__ |  <img src="./imgs/jcohen.jpg" alt="Jeremy Cohen" width="150" height="150">  | FRANCE | [linkedin.com/in/jeremycohen2626](https://linkedin.com/in/jeremycohen2626)|[github.com/Jeremy26](https://github.com/Jeremy26)|
-| __Anurag Kankanala__ | <img src="./imgs/akankanala.jpg" alt="Anurag Kankanala" width="150" height="150">| INDIA | [linkedin.com/in/anurag-kankanala](https://linkedin.com/in/anurag-kankanala)|[github.com/anuragkankanala](https://github.com/anuragkankanala)|
-| __Srikanth Mutyala__ | <img src="./imgs/smutyala.jpg" alt="Srikanth Mutyala" width="150" height="150"> | USA | [linkedin.com/in/srikanth-mutyala-a0a30546](https://linkedin.com/in/srikanth-mutyala-a0a30546) |[github.com/srimutyala](https://github.com/srimutyala)|
+Finally, Carla is able to drive the car around the parking lot.
 
 ### Architecture
 <img src="./imgs/rosgraph.png" alt="ROS GRAPH" width="435" height="300">
